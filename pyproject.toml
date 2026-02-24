@@ -18,6 +18,8 @@ isort = "^7.0.0"
 pytest = "^9.0.2"
 cov = "^0.1.2"
 dotenv = "^0.9.9"
+pandas = "^3.0.1"
+pytest-cov = "^7.0.0"
 
 [build-system]
 requires = ["poetry-core"]
